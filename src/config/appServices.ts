@@ -20,7 +20,7 @@ export const getProductRepo = (): ProductRepo => {
       {
         id: 'p-002',
         name: 'A Small Test change',
-        pricePence: 0099,
+        pricePence: 99,
         description: 'My changed example.',
         updatedAt: now,
       },
