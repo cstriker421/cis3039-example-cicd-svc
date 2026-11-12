@@ -19,9 +19,9 @@ export const getProductRepo = (): ProductRepo => {
       },
       {
         id: 'p-002',
-        name: 'A Small Test change',
+        name: 'A 99p Blender',
         pricePence: 99,
-        description: 'My changed example.',
+        description: '"WHERE DID YOU GET THAT?!"~ The Great and Mighty Kevin',
         updatedAt: now,
       },
     ];
