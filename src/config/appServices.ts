@@ -19,9 +19,9 @@ export const getProductRepo = (): ProductRepo => {
       },
       {
         id: 'p-002',
-        name: 'Seeded Gadget',
-        pricePence: 2599,
-        description: 'Another seeded product to get you started.',
+        name: 'A Small Test change',
+        pricePence: 0099,
+        description: 'My changed example.',
         updatedAt: now,
       },
     ];
